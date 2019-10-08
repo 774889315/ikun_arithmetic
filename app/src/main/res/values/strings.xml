@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KunkunArithmetic</string>
+    <string name="key_1">1</string>
+    <string name="key_2">2</string>
+    <string name="key_3">3</string>
+    <string name="key_4">4</string>
+    <string name="key_5">5</string>
+    <string name="key_6">6</string>
+    <string name="key_7">7</string>
+    <string name="key_8">8</string>
+    <string name="key_9">9</string>
+    <string name="key_0">0</string>
+    <string name="key_bs">×</string>
+
+    <string name="test_problem0">12 + 13 = </string>
+    <string name="test_problem1">(3 + 4) × 7 = </string>
+    <string name="test_problem2">6 × (43 \- 22) = 126</string>
+
+    <string name="reserved">\?</string>
+</resources>
